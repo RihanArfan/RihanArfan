@@ -1,7 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=RihanArfan&show_icons=true">
+<img align='right' src="https://wakatime.com/share/@Rihan/d82c96ad-165b-47cf-9bbd-22dc92b8d71e.svg" width="25%">
 
 ### Hi there 👋
-I'm Rihan, a student in Cambridge who founded [@Dashflo](https://github.com/Dashflo). 🖥
+I'm Rihan, a student who founded [@Dashflo](https://github.com/Dashflo). 🖥
 
 Test in production
 
