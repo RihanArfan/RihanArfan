@@ -1,16 +1,15 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=RihanArfan&show_icons=true">
+
 ### Hi there 👋
+I'm Rihan, a student in Cambridge who founded [@Dashflo](https://github.com/Dashflo). 🖥
 
-<!--
-**RihanArfan/RihanArfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Test in production
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/RihanArfan">
+  <img align="left" alt="Rihan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/RihanArfan">
+  <img align="left" alt="Rihan's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![wakatime](https://wakatime.com/badge/user/2f19162a-e407-4cd6-b835-06cd4f5c34b0.svg?style=flat)](https://wakatime.com/@Rihan)
