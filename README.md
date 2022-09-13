@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=RihanArfan&show_icons=true">
 
 ### Hi there 👋
-I'm Rihan, a student who founded [@Dashflo](https://github.com/Dashflo). 🖥
+I'm Rihan! I love architecting systems that scale and working with the latest technologies.
 
 Test in production
 
