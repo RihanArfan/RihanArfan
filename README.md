@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=RihanArfan&show_icons=true">
-
 ### Hi there 👋
 I'm Rihan! I love architecting systems that scale and working with the latest technologies.
 
