@@ -11,3 +11,5 @@ Test in production
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/2f19162a-e407-4cd6-b835-06cd4f5c34b0.svg?style=flat)](https://wakatime.com/@Rihan)
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://www.aljazeera.com/news/2024/1/12/icj-genocide-case-south-africas-five-point-argument-against-israel)
